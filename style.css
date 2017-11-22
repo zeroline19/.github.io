@@ -1,0 +1,103 @@
+body {
+    background: #2B3E4D;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #B1BED0;
+}
+
+footer {
+    background-color: #fff;
+    opacity: 0.25;
+    display: block;
+    font-family: Helvetica;
+    float: center;
+    font-size: 14px;
+    text-transform: uppercase;
+    line-height: 20px;
+}
+
+.ulpost {
+    position: absolute;
+    top: 0px;
+    right: 50px;    
+    list-style: none;
+    color: white;
+}
+
+.caption {
+    opacity: 0.25;
+    background-color: #fff;
+    color: #000;
+    display: block;
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 14px;
+    padding: 1px;
+    position: center;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    height: 240px;
+}
+
+h1 {
+    font-family: Georgia;
+    text-align: center;
+    color: #000;
+    font-size: 2em;
+    padding-top: 100px;
+    width: 100%;
+}
+
+h2 {
+    font-family: Georgia;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+    color: #000;
+    font-weight: 100;
+    font-size: 22px;
+    line-height: 24px;
+    padding-bottom: 30px;
+    text-align: center;
+    width: 100%;
+}
+
+h3{
+    color: #fff;
+    font-family: Georgia sans-serif;
+    font-style: italic;
+    font-weight: 100;
+    line-height: 20px;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 20px;
+    color: #fff;
+}
+
+li {
+    font-size: 20px;
+    color: #fff;    
+}
+
+a {
+    color: #000;
+}
+
+.headerimage {
+    background: url("http://www.desktopwallpaperhd.net/wallpapers/8/8/final-fantasy-ffxiv-website-wallpaper-online-saw-section-84536.jpg") ;
+    background-repeat: repeat;
+    background-size: contain;
+    background-position: top;
+    height: 380px;
+}
+
+colsel {
+    color: white;
+}
